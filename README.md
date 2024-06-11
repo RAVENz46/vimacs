@@ -7,5 +7,21 @@ a s r h l b f u i o ;
 x z v g j n m , . /
 ```
 
-## Discriptions
-WIP
+## Descriptions
+ I have complains about QWRTY layout.
+ However, existing layouts are also not for me for some reasons.
+ So I created this layout to achieve these.
+- Keep HJKL and BNPF close for vim, emacs and some software use these keybindings.
+- Better than QWERTY on Typing English and Japanese(Roma-ji).
+- As much efficient as DVORAK on both languages.
+- Do not keep aiueo keys to left or right hand side like DVORAK.
+- Only the middle finger should be one row up to the home row.
+
+ But these are not goal.
+- Create more efficient layout than colemak, workman, etc.
+- Keep ZXCV to left bottom for shortcut.
+
+##TODO
+- [ ] Add Japanese Description.
+- [ ] Add configs for some software(kanata, xremap, autohotkey, ...)
+- [ ] Add the KLA score is described as one of the evaluation indicators.
