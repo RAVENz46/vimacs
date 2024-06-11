@@ -20,7 +20,7 @@
       "inputs": {
         "nixpkgs": "nixpkgs",
         "systems": "systems",
-        "treefmt": "treefmt"
+        "treefmt-nix": "treefmt-nix"
       }
     },
     "systems": {
@@ -37,7 +37,7 @@
         "type": "indirect"
       }
     },
-    "treefmt": {
+    "treefmt-nix": {
       "inputs": {
         "nixpkgs": [
           "nixpkgs"
