@@ -21,7 +21,7 @@ x z v g j n m , . /
 - Create more efficient layout than colemak, workman, etc.
 - Keep ZXCV to left bottom for shortcut.
 
-##TODO
+## TODO
 - [ ] Add Japanese Description.
 - [ ] Add configs for some software(kanata, xremap, autohotkey, ...)
 - [ ] Add the KLA score is described as one of the evaluation indicators.
