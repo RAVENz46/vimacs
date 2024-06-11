@@ -12,9 +12,9 @@ x z v g j n m , . /
  However, existing layouts are also not for me for some reasons.
  So I created this layout to achieve these.
 - Keep HJKL and BNPF close for vim, emacs and some software use these keybindings.
-- Better than QWERTY on Typing English and Japanese(Roma-ji).
+- Better than QWERTY to type English and Japanese(Roma-ji).
 - As much efficient as DVORAK on both languages.
-- Do not keep aiueo keys to left or right hand side like DVORAK.
+- Do not keep AIUEO keys to left or right hand side like DVORAK.
 - Only the middle finger should be one row up to the home row.
 
  But these are not goal.
