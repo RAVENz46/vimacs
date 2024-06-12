@@ -20,6 +20,7 @@ x z v g j n m , . /
  But these are not goal.
 - Create more efficient layout than colemak, workman, etc.
 - Keep ZXCV to left bottom for shortcut.
+- Reduce the usage of the ring and pinky fingers.
 
 ## TODO
 - [ ] Add Japanese Description.
