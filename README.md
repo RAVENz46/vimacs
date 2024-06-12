@@ -24,5 +24,5 @@ x z v g j n m , . /
 
 ## TODO
 - [ ] Add Japanese Description.
-- [ ] Add configs for some software(kanata, xremap, autohotkey, ...)
+- [ ] Add configs for some software(kanata, xremap, ...)
 - [ ] Add the KLA score is described as one of the evaluation indicators.
