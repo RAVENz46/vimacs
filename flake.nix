@@ -10,7 +10,8 @@
     let
       eachSystem = f: nixpkgs.lib.genAttrs (import systems) (system: f nixpkgs.legacyPackages.${system});
       treefmtEval = eachSystem (pkgs: treefmt-nix.lib.evalModule pkgs ./treefmt.nix);
-    in {
+    in
+    {
       formatter = eachSystem (pkgs: treefmtEval.${pkgs.system}.config.build.wrapper);
       checks = eachSystem (pkgs: { formatting = treefmtEval.${pkgs.system}.config.build.check self; });
       devShells = eachSystem (pkgs: import ./shell.nix { inherit pkgs; });
