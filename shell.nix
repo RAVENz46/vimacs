@@ -2,7 +2,7 @@
 
 {
   default = pkgs.mkShell {
-    nativeBuildInputs = with pkgs; [
+    packages = with pkgs; [
       typos
     ];
   };
